@@ -1,5 +1,4 @@
-# Data Analytics Project Portfolio
-# Data Analysis projects using Python, SQL, and Google Analytics
+# Data Analysis project using Python, SQL, and Google Analytics
 ### 1. HCLSoftware – Data-Driven Marketing & Analysis
 **Description:**  
 Worked on SEO and digital analytics for HCLSoftware, leveraging tools like Google Analytics and HCL Digital Analytics.  
