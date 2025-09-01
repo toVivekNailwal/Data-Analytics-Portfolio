@@ -1,11 +1,7 @@
-# 📊 HCLSoftware – Data Analysis Case Study (Simplified)
+# 📊 HCLSoftware – Data Analysis Case Study
 
 ## 🔎 Project Overview  
-This case study is inspired by how companies like **HCLSoftware** use data to improve their business.  
-I worked on a project where I analyzed data from web traffic, user sign-ups, and marketing campaigns.  
-The goal was to **understand user behavior, measure what is working, and suggest improvements.**  
-
-Originally, the project was SEO-focused, but here it is reframed to highlight **data analysis skills**.
+A case study modeling how HCLSoftware clients leverage data analytics platforms (e.g., HCL Actian Data Platform, HCL Discover) to extract insights from traffic and engagement data. The goal was to **understand user behavior, measure what is working, and suggest improvements.**  
 
 ---
 
