@@ -1,7 +1,7 @@
 # 📊 HCLSoftware – Data Analysis
 
 ## 🔎 Project Overview  
-A case study modeling how HCLSoftware clients leverage data analytics platforms (e.g., HCL Actian Data Platform, HCL Discover) to extract insights from traffic and engagement data. The goal was to **understand user behavior, measure what is working, and suggest improvements.**  
+This project is about how HCLSoftware clients leverage data analytics platforms (e.g., HCL Actian Data Platform, HCL Discover) to extract insights from traffic and engagement data. The goal was to **understand user behavior, measure what is working, and suggest improvements.**  
 
 ---
 
